@@ -1,0 +1,3 @@
+Le hook useEffect permet d'effectuer des effets de côté (par exemple, des opérations d'effet de bord comme 
+des appels réseau, des abonnements, etc.) dans un composant fonctionnel. Il s'exécute après que le rendu du 
+composant est effectué. Vous pouvez également spécifier des nettoyages à effectuer lors du démontage du composant.

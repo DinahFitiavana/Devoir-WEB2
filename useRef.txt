@@ -1,0 +1,4 @@
+
+useRef est un hook en React qui permet de créer une référence mutable qui persiste entre les rendus du composant. 
+Contrairement à l'état (useState) qui provoque un re-rendu lorsqu'il est mis à jour, les modifications de useRef 
+n'entraînent pas de re-rendu.

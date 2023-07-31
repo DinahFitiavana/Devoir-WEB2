@@ -1,0 +1,3 @@
+useCallback est un hook qui permet de mémoriser une fonction entre les rendus du composant. 
+Cela permet d'éviter la création de nouvelles fonctions à chaque re-rendu, ce qui peut être utile 
+lorsque des fonctions sont utilisées comme dépendances pour d'autres hooks.

@@ -1,0 +1,4 @@
+Le hook useState permet à un composant fonctionnel de déclarer et de gérer un état local. 
+Il retourne une paire de valeurs : la première est la valeur de l'état et la seconde est une 
+fonction pour mettre à jour cette valeur. En utilisant cette fonction, vous pouvez modifier l'état 
+local et déclencher une nouvelle rendu du composant avec la nouvelle valeur de l'état.

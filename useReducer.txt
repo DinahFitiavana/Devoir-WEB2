@@ -1,0 +1,3 @@
+useReducer est un autre hook en React qui est utilisé pour gérer l'état complexe d'un composant à l'aide 
+d'un modèle de réduction (comme dans Redux). Il est souvent utilisé pour les cas où l'état dépend de plusieurs
+ actions et suit une logique de gestion de l'état plus complexe.

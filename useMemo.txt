@@ -1,0 +1,3 @@
+useMemo est un hook en React qui permet de mémoriser le résultat d'un calcul et de le conserver entre les
+ rendus successifs du composant. Il est utilisé pour optimiser les performances en évitant de recalculer 
+ certaines valeurs à chaque re-rendu du composant.

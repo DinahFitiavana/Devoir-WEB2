@@ -1,0 +1,4 @@
+Le hook useContext permet d'accéder à un contexte spécifié à partir d'un composant enfant. 
+Il est utilisé pour éviter de propager des données de haut en bas à travers les props. 
+Vous pouvez créer un contexte avec React.createContext et utiliser useContext pour y accéder dans 
+les composants enfants qui en ont besoin.
